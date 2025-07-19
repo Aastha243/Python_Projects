@@ -1,1 +1,51 @@
-# Python_Projects
+# 🛒 Project #1 : E-Commerce Data Analysis using Pandas & Plotly
+This Python project focuses on analyzing e-commerce transaction data to uncover valuable business insights. It uses Pandas for data wrangling and Plotly for interactive visualizations. The goal is to help e-commerce platforms make data-driven decisions around product performance, sales trends, and customer behavior.
+
+# Libraries Used:
+--Pandas – Data loading, cleaning, transformation, grouping.
+
+--Plotly Express – Interactive visualizations (e.g., bar charts).
+
+--Plotly Graph Objects – Advanced and styled plots.
+
+--Plotly I/O and Colors – Custom templates and themes.
+
+--Matplotlib – Static plots (imported but not emphasized).
+
+--Seaborn – For statistical plotting (imported).
+
+--Datetime – Time feature extraction from date columns.
+
+<img width="978" height="704" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/91dfaf71-d6cf-4832-87c0-14017eca6d9b" />
+
+<img width="801" height="407" alt="Screenshot (51)" src="https://github.com/user-attachments/assets/93ac829f-37cb-44bf-918e-5831b781d36c" />
+
+<img width="909" height="587" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/0b1d85ea-d9b6-4e46-9f18-f117c6ed3a6c" />
+
+# Key Features:
+---Loaded and cleaned raw e-commerce transaction data using Pandas
+
+---Extracted date-based features like Month, Day, and Year from Order Date
+
+---Performed feature engineering (e.g., Profit Margin, Days to Ship)
+
+---Grouped data to analyze:
+   -Sales by Segment, Category, and Sub-Category.
+   -Monthly revenue and seasonal peaks.
+   -Regional trends using State and City.
+   -Applied advanced grouping, filtering, and sorting for insights.
+   -Created interactive charts to showcase findings.
+
+ # Objective:
+--The objective of this project is to analyze and visualize e-commerce sales data to identify key patterns in customer purchases, revenue trends, product categories, and time-based performance. By using interactive visualizations and advanced data grouping, this project helps stakeholders:
+
+--Understand monthly and seasonal sales performance.
+
+--Identify top-selling products and categories.
+
+--Monitor state-wise and city-wise order trends.
+
+--Analyze profitability and discount impact.
+
+--Explore customer segments and their behavior.
+
