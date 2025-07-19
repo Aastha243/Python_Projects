@@ -18,7 +18,7 @@ This Python project focuses on analyzing e-commerce transaction data to uncover 
 
 <img width="978" height="704" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/91dfaf71-d6cf-4832-87c0-14017eca6d9b" />
 
-<img width="801" height="407" alt="Screenshot (51)" src="https://github.com/user-attachments/assets/93ac829f-37cb-44bf-918e-5831b781d36c" />
+<img width="1195" height="692" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/6203a9df-c720-4a26-973e-573803e2abba" />
 
 <img width="909" height="587" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/0b1d85ea-d9b6-4e46-9f18-f117c6ed3a6c" />
 
