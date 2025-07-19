@@ -1,4 +1,4 @@
-# 🛒 Project #1 : E-Commerce Data Analysis using Pandas & Plotly
+# 🛒 Project #1 : E-Commerce Data Analysis using Python 
 This Python project focuses on analyzing e-commerce transaction data to uncover valuable business insights. It uses Pandas for data wrangling and Plotly for interactive visualizations. The goal is to help e-commerce platforms make data-driven decisions around product performance, sales trends, and customer behavior.
 
 # Libraries Used:
