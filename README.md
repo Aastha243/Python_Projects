@@ -20,7 +20,9 @@ This Python project focuses on analyzing e-commerce transaction data to uncover 
 
 <img width="1195" height="692" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/6203a9df-c720-4a26-973e-573803e2abba" />
 
-<img width="909" height="587" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/0b1d85ea-d9b6-4e46-9f18-f117c6ed3a6c" />
+<img width="1250" height="419" alt="Screenshot (50) (2)" src="https://github.com/user-attachments/assets/31212800-a16b-4a5a-80d4-2344d1b2f651" />
+
+<img width="1271" height="609" alt="Screenshot (49) (2)" src="https://github.com/user-attachments/assets/a50f4c56-cea2-4aae-8735-ba21bd3eee14" />
 
 # Key Features:
 ---Loaded and cleaned raw e-commerce transaction data using Pandas
